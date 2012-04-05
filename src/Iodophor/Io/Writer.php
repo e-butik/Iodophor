@@ -29,7 +29,7 @@ use Iodophor\Io\Exception as IoException;
  * @copyright  Copyright (c) 2005-2009 Zend Technologies USA Inc. (http://www.zend.com)
  * @license    http://framework.zend.com/license/new-bsd     New BSD License
  */
-class Iodophor\Io\Writer
+class Writer
 {
     const MACHINE_ENDIAN_ORDER = 0;
     const LITTLE_ENDIAN_ORDER  = 1;
