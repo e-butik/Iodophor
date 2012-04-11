@@ -2,7 +2,7 @@
     "name": "e-butik/iodophor",
     "description": "A PHP library for binary IO and bit twiddling",
     "homepage": "http://github.com/e-butik/Iodophor",
-    "license": "3-clause BSD",
+    "license": "BSD-3",
 
     "require": {
         "php": ">=5.3.0"
